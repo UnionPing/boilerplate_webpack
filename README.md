@@ -5,6 +5,7 @@
 This Webpack 5 Boilerplate with production and development options. Dev includes a livereload server using
 source-mapping and a proxy preconfigured. THe package comes with the jQuery, Bootstrap as well as FontAwesome.
 
+
 # Setup
 
 best practice is that you should set your `package.json` to avoid submitting it to any package management (already done
