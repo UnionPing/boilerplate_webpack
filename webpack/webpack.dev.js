@@ -2,6 +2,7 @@ const config = require("./webpack.prod.js");
 config.mode = "development";
 config.devtool = 'inline-source-map';
 config.devServer = {
+    hot: true,
     open: true,
     // proxy: {
     //     '/api': {
